@@ -6,7 +6,7 @@
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/d7aad51a-e8a9-469a-bd4d-baad4b371148" />
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/864cfa4b-5e8d-4d3c-96c9-495572571b5a" />
 
-- dark blue
+- dark blue glow
 <img width="1920" height="1080" alt="FiveM® by Cfx re - Midnight Club Los Santo's 15_08_2025 01_52_04" src="https://github.com/user-attachments/assets/e42e9c30-b976-46fb-82ef-777c6e009047" />
 <img width="1920" height="1080" alt="FiveM® by Cfx re - Midnight Club Los Santo's 15_08_2025 01_51_42" src="https://github.com/user-attachments/assets/4f42f2c4-dea1-4ab5-aa0d-80682e9b69c8" />
 <img width="1920" height="1080" alt="FiveM® by Cfx re - Midnight Club Los Santo's 15_08_2025 01_52_11" src="https://github.com/user-attachments/assets/7fcfc7e3-45d4-48af-85bb-2ec957ea1ed6" />
