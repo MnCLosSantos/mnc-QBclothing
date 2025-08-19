@@ -1,6 +1,6 @@
 # mnc-QBclothing
-4 new uis for qb-clothing
-## To change ui simple replace contents of style.css with the contents of the one you like.
+## 4 new uis for qb-clothing
+### To change ui simple replace contents of style.css with the contents of the one you like.
 
 - white, gray and green
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/f61217a4-9c4f-4bd3-b353-fbd75f2a55a7" />
