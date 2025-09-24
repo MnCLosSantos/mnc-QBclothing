@@ -23,5 +23,7 @@
 <img width="1920" height="1080" alt="FiveM® by Cfx re - Midnight Club Los Santo's 15_08_2025 02_13_12" src="https://github.com/user-attachments/assets/3b9ab55f-fe27-4818-9fe8-dac0776912a0" />
 
 ## 📞 Support & Community
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aTBsSZe5C6)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourRepositories)
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aTBsSZe5C6) ***https://discord.gg/rKtSsC33***
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YourRepositories](https://github.com/MnCLosSantos)) ***https://github.com/MnCLosSantos***
